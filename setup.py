@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = 'signLanguages',
+    name = 'Object Detection',
     version= '0.0.0',
-    author= 'iNeuron',
-    author_email= 'boktiar@ineuron.ai',
+    author= 'Mayur Gohane',
+    author_email= 'mayurgohane19@ineuron.ai',
     packages= find_packages(),
     install_requires = []
 
